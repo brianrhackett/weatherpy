@@ -1,0 +1,4 @@
+
+- Data is skewed toward positive latitudes. Meaning there are more cities in the northern hemisphere. 90% of the human population resides in the northeen hemisphere.
+- There is some evidence that wind speeds increase when you get farther from the equator, but it's not enough to say with confidence.
+- Humidity near the equator seems to always be high, but there's not enough to say with confidence that this is always the case.
